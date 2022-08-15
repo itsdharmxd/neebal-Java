@@ -51,6 +51,9 @@ class Tree{
         for(Map.Entry<Integer,String >entry:map.entrySet()){
             System.out.println(entry.getKey()+"   "+entry.getValue());
         }
+        for ( Map.Entry<Integer,String> e: map.entrySet()){
+
+        }
     }
 
 }
